@@ -5,7 +5,7 @@ A collection of existing papers related to energy-latency attacks
 - [Inference Stage Attacks](#Inference-Stage-Attacks)
 - [Training Stage Attacks](#Training-Stage-Attacks)
 
-<div align=center><img src="./attack_scenarios.png" width="110%" height="110%" /></div>
+<div align=center><img src="./attack_scenarios.pdf" width="110%" height="110%" /></div>
 
 ---
 
