@@ -19,8 +19,12 @@ A collection of existing papers related to energy-latency attacks
 |DeepSloth | [ICLR (2021)](https://iclr.cc/Conferences/2021) | Multi-exit CNNs | CV | White box | [paper](https://arxiv.org/abs/2010.02432) | [Github](https://github.com/Sanghyun-Hong/DeepSloth)|
 |GradAuto  | [ECCV (2022)](https://eccv2022.ecva.net/) | Depth- and \width-dynamic AdNNs | CV | White box | [paper](https://eprints.lancs.ac.uk/id/eprint/179610/1/Advanced_Adversarial_Attack_on_Dynamic_Neural_Networks.pdf) | [Github](https://github.com/JianhongPan/GradAuto)|
 |SpikeAttack| [ACM-DAC (2022) ](https://dl.acm.org/doi/proceedings/10.1145/3489517)|SNNs | CV | White box | [paper](https://dl.acm.org/doi/pdf/10.1145/3489517.3530443) |  ✘ |
-|NMTSloth | [ESEC/FSE (2022) ] (https://2022.esec-fse.org/) | Decoder-based NMT \systems | NLP | White box | [paper]([https://arxiv.org/abs/2210.03696v2](https://arxiv.org/abs/2210.03696v1)) | [Github](https://github.com/SeekingDream/FSE22_NMTSloth) |
+|NMTSloth | [ESEC/FSE (2022)](https://2022.esec-fse.org/) | Decoder-based NMT \systems | NLP | White box | [paper](https://arxiv.org/abs/2210.03696v1) | [Github](https://github.com/SeekingDream/FSE22_NMTSloth) |
 |LLMEffiChecker | [ACM Transactions on Software\ Engineering and Methodology](https://dl.acm.org/journal/tosem) | LLMs | NLP | Black & white box | [paper](https://arxiv.org/abs/2210.03696) | [Github](https://github.com/Cap-Ning/LLMEffiChecker) |
-|NICGSlowDown
+|NICGSlowDown | [CVPR (2022)](https://cvpr2022.thecvf.com/) | Decoder-based NICG models | CV | White box | [paper](https://arxiv.org/abs/2203.15859) | [Github](https://github.com/SeekingDream/CVPR22_NICGSlowDown) |
+|EREBA | [CSE-SEIP (2022)](https://dl.acm.org/doi/proceedings/10.1145/3510457) | AdNNs | CV | Black box | [paper](https://arxiv.org/abs/2202.06084) | ✘ |
+|SAME | [ACL (2023)](https://2023.aclweb.org/) | Multi-exit transformers | NLP | White box | [paper](https://arxiv.org/abs/2305.12228) |[Github](https://github.com/MatthewCYM/SAME)|
+|SlowFormer |[CVPR (2024)](https://cvpr.thecvf.com/Conferences/2024) | Efficient ViTs | CV | White box | [paper](https://arxiv.org/abs/2310.02544) | [Github](https://github.com/UCDvision/SlowFormer) |
+|
 
 ## Training-Stage-Attacks
