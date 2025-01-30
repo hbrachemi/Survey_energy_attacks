@@ -1,5 +1,5 @@
-# Sponge_attacks
-A collection of existing papers related to energy-latency attacks
+# Energy-latency attacks
+A collection of existing papers related to energy-latency attacks against different DNN architectures.
 
 **Table of Contents**
 - [Inference Stage Attacks](#Inference-Stage-Attacks)
