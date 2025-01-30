@@ -30,7 +30,10 @@ A collection of existing papers related to energy-latency attacks
 |Overload | [CVPR (2023)](https://cvpr.thecvf.com/Conferences/2023) | Object detection | CV | White box | [paper](https://arxiv.org/abs/2304.05370) | ✘ |
 |SlowLiDAR|[CVPR (2023)](https://cvpr.thecvf.com/Conferences/2023)| Object detection (3D) | CV | White box | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SlowLiDAR_Increasing_the_Latency_of_LiDAR-Based_Detection_Using_Adversarial_Examples_CVPR_2023_paper.pdf) | [Github](https://github.com/WUSTL-CSPL/SlowLiDAR) |
 |AntiNODE |[CVPR (2023)](https://cvpr.thecvf.com/Conferences/2023)| ODE | CV | White box | [paper]([https://arxiv.org/abs/2304.05370](https://openaccess.thecvf.com/content/ICCV2023W/RCV/papers/Haque_AntiNODE_Evaluating_Efficiency_Robustness_of_Neural_ODEs_ICCVW_2023_paper.pdf)) | [Github](https://github.com/anonymous2015258/NODEAttack) |
-|
+|SlothSpeech | [Interspeech (2023)](https://interspeech2023.org/) | Decoder-based speech recognition models| NLP | White box | [paper](https://arxiv.org/abs/2306.00794) | [Github](https://github.com/0xrutvij/SlothSpeech) |
+|Verbose images | [ICLR (2024)](https://iclr.cc/Conferences/2024) |Decoder-based VLMs | CV | White box | [paper](https://arxiv.org/abs/2401.11170) | [Github](https://github.com/KuofengGao/Verbose_Images/tree/8658c87a94df611cb1dcbdccde9420176c360e26) | 
+|Uniform inputs | [SPW (2024)](https://sp2024.ieee-security.org/)| CNNs | CV | Black box | [paper](https://arxiv.org/abs/2403.18587) | [Github](https://github.com/and-mill/2024-sponge-example-analysis)
+
 
 
 ## Training-Stage-Attacks
