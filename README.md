@@ -42,6 +42,6 @@ A collection of existing papers related to energy-latency attacks
 |Sponge poisoning| arXiv (2022) & [Asia Conference on Computer and Communications Security (2023)](https://dl.acm.org/doi/proceedings/10.1145/3579856) | CNNs | CV | Full control | [paper](https://arxiv.org/abs/2203.08147) & [paper](https://arxiv.org/abs/2305.03888) | [Github](https://github.com/Cinofix/sponge_poisoning_energy_latency_attack)
 | EfficFrog | [CVPR (2023)](https://cvpr.thecvf.com/Conferences/2023) | Multi-exit CNNs | CV | Partial control | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_The_Dark_Side_of_Dynamic_Routing_Neural_Networks_Towards_Efficiency_CVPR_2023_paper.pdf) | [Github](https://github.com/SeekingDream/EfficFrog) |
 | Chen _et al._ | [Journal of Signal Processing Systems (2023)](https://link.springer.com/journal/11265) | CNNs | CV | Partial control | [paper](https://link.springer.com/article/10.1007/s11265-023-01895-3) :lock:| ✘|
-| SkipSponge |
-| Huang et al.
-| Energy backdoor |
+| SkipSponge | arXiv (2024) | CNNs, GANs | CV | Full control | [paper](https://arxiv.org/abs/2402.06357v4)| ✘|
+| Huang _et al._ | [IEEE Access (2024)](https://ieeeaccess.ieee.org/) |Multi-exit CNNs|CV| Full control |[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445460) |✘| 
+| Energy backdoor | [ICASSP (2025)](https://2025.ieeeicassp.org/) | CNNs |CV | Full control | [paper](https://arxiv.org/abs/2501.08152) | [Github](https://github.com/hbrachemi/energy_backdoor)|
