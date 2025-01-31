@@ -1,5 +1,5 @@
 # Energy-latency attacks
-A collection of existing papers related to energy-latency attacks against different DNN architectures.
+We provide a collection of existing papers related to energy-latency attacks from the literature, categorized by their attack stage (training/inference), and we further detail the attack's setting, targeted DNN architecture and application.
 
 **Table of Contents**
 - [Inference Stage Attacks](#Inference-Stage-Attacks)
