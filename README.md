@@ -39,7 +39,7 @@ We provide a collection of existing papers related to energy-latency attacks fro
 ## Training-Stage-Attacks
 |Attack  | Venue | Target | Application | Attack setting | Papers :page_facing_up:| Code |
 | :--- | :---: |:---:|:---:|:---:|:---:|:---:|
-|Sponge poisoning| arXiv (2022) & [Asia Conference on Computer and Communications Security (2023)](https://dl.acm.org/doi/proceedings/10.1145/3579856) | CNNs | CV | Full control | [paper](https://arxiv.org/abs/2203.08147) & [paper](https://arxiv.org/abs/2305.03888) | [Github](https://github.com/Cinofix/sponge_poisoning_energy_latency_attack)
+|Sponge poisoning| Information Sciences (2025) & [Asia Conference on Computer and Communications Security (2023)](https://dl.acm.org/doi/proceedings/10.1145/3579856) | CNNs | CV | Partial control | [paper](https://arxiv.org/abs/2203.08147) & [paper](https://arxiv.org/abs/2305.03888) | [Github](https://github.com/Cinofix/sponge_poisoning_energy_latency_attack)
 | EfficFrog | [CVPR (2023)](https://cvpr.thecvf.com/Conferences/2023) | Multi-exit CNNs | CV | Partial control | [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_The_Dark_Side_of_Dynamic_Routing_Neural_Networks_Towards_Efficiency_CVPR_2023_paper.pdf) | [Github](https://github.com/SeekingDream/EfficFrog) |
 | Chen _et al._ | [Journal of Signal Processing Systems (2023)](https://link.springer.com/journal/11265) | CNNs | CV | Partial control | [paper](https://link.springer.com/article/10.1007/s11265-023-01895-3) :lock:| ✘|
 | SkipSponge | arXiv (2024) | CNNs, GANs | CV | Full control | [paper](https://arxiv.org/abs/2402.06357v4)| ✘|
